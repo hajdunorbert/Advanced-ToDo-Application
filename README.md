@@ -8,14 +8,16 @@ To get started, simply clone this repository and follow the setup instructions i
 
 <b>Key Features:</b>
 
-Create Projects: Organize your tasks and to-dos into projects for better categorization.
-Add Tasks with Descriptions: Create tasks with detailed descriptions, making it easy to understand your goals and priorities.
-Delete Projects and Tasks: Effortlessly remove projects and tasks that are no longer relevant.
-Set Task Priorities: Prioritize your tasks with customizable priority levels (e.g., high, medium, low).
-Set Due Dates: Assign due dates to tasks to ensure you never miss a deadline.
-User Registration and Login: Create your account, or log in to access your tasks and projects securely.
-Notifications: Stay on top of your tasks with timely notifications and reminders.
-Project Sharing: Collaborate with friends and colleagues by sharing your projects with ease.
+<ul>
+<li>Create Projects: Organize your tasks and to-dos into projects for better categorization.</li>
+<li>Add Tasks with Descriptions: Create tasks with detailed descriptions, making it easy to understand your goals and priorities.</li>
+<li>Delete Projects and Tasks: Effortlessly remove projects and tasks that are no longer relevant.</li>
+<li>Set Task Priorities: Prioritize your tasks with customizable priority levels (e.g., high, medium, low).</li>
+<li>Set Due Dates: Assign due dates to tasks to ensure you never miss a deadline.</li>
+<li>User Registration and Login: Create your account, or log in to access your tasks and projects securely.</li>
+<li>Notifications: Stay on top of your tasks with timely notifications and reminders.</li>
+<li>Project Sharing: Collaborate with friends and colleagues by sharing your projects with ease.</li>
+</ul>
 
 <b>Why Nortaur?</b>
 
