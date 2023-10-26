@@ -1,9 +1,9 @@
 <h3>Project Title: Nortaur</h3>
 
-<b>Description:</b>
+<b>Description:</b><br>
 Welcome to Nortaur, your go-to solution for efficient task and project management! With a sleek interface and powerful features, our app is designed to help you stay organized and in control of your tasks and projects.
 
-<b>Getting Started:</b>
+<b>Getting Started:</b><br>
 To get started, simply clone this repository and follow the setup instructions in core/settings.php. You can configure your app and database settings to match your preferences.
 
 <b>Key Features:</b>
@@ -19,7 +19,7 @@ To get started, simply clone this repository and follow the setup instructions i
 <li>Project Sharing: Collaborate with friends and colleagues by sharing your projects with ease.</li>
 </ul>
 
-<b>Why Nortaur?</b>
+<b>Why Nortaur?</b><br>
 
 Efficiency: Our intuitive design and powerful features make managing tasks and projects a breeze.
 Flexibility: Customize the app to match your unique workflow and preferences.
